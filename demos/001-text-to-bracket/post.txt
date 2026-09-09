@@ -6,4 +6,4 @@ Change the width. Regenerate. Export STEP + STL.
 
 Built with Python + build123d. Constrained prompts, no API key.
 
-Code: [REPOSITORY_URL]
+Code: https://github.com/AnupKumarJha/x-demos

@@ -4,9 +4,11 @@ One working demo at a time: build it, test it, capture a short walkthrough, and 
 
 ![Text-to-Bracket desktop preview](assets/001-text-to-bracket.png)
 
+[Watch or download the 24-second demo video](assets/001-demo.mp4)
+
 | Demo | What it does | State |
 | --- | --- | --- |
-| [001 — Text-to-Bracket](demos/001-text-to-bracket) | A constrained text prompt becomes an actual CAD solid, STEP and STL | Local implementation; publishing pending |
+| [001 — Text-to-Bracket](demos/001-text-to-bracket) | A constrained text prompt becomes an actual CAD solid, STEP and STL | Built and tested; video included |
 
 ## Run demo 001
 

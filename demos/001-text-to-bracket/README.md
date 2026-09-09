@@ -39,4 +39,4 @@ The 3D preview is tessellated from the actual exported solid; it is not an illus
 
 ## Publishing
 
-Suggested X copy is in `post.txt`. Attach the generated MP4 and add the final repository URL before publishing. No post has been sent and no remote repository has been created by this source package.
+Suggested X copy is in `post.txt`. Attach [the demo MP4](../../assets/001-demo.mp4) when posting. The X post is a draft; publishing the repository does not publish to X.
