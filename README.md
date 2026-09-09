@@ -10,6 +10,15 @@ One working demo at a time: build it, test it, capture a short walkthrough, and 
 | --- | --- | --- |
 | [001 — Text-to-Bracket](demos/001-text-to-bracket) | A constrained text prompt becomes an actual CAD solid, STEP and STL | Built and tested; video included |
 | [002 — Sketch-to-3D](demos/002-sketch-to-3d) | A closed outline image becomes a CAD extrusion with editable depth and profile | Built and tested; video included |
+| [003 — Drawing Auto-Dimension](demos/003-auto-dimension) | A stepped plate gets reference dimensions that update with its geometry | Built and tested; video included |
+
+## Run demo 003
+
+```sh
+python demos/003-auto-dimension/studio.py
+```
+
+Add dimensions, change the plate width and export SVG/PNG plus editable JSON. [Demo details and limits](demos/003-auto-dimension).
 
 ## Run demo 002
 

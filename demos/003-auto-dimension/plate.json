@@ -1,0 +1,10 @@
+{
+  "units": "mm",
+  "width": 100,
+  "height": 70,
+  "step_x": 65,
+  "step_y": 50,
+  "hole_diameter": 8,
+  "hole_inset": 20,
+  "hole_y": 20
+}

@@ -1,0 +1,10 @@
+Drawing the part is fun.
+Adding every little dimension? Less so.
+
+Built a tool to handle the boring bit.
+
+Then I stretched the part—and the numbers followed. 👇
+
+Demo 003. Simple 2D plates for now.
+
+Code: https://github.com/AnupKumarJha/x-demos/tree/main/demos/003-auto-dimension
