@@ -1,0 +1,9 @@
+Demo 001: Text → bracket.
+
+“L-bracket, 4 M6 holes, 3mm steel” → a real CAD solid.
+
+Change the width. Regenerate. Export STEP + STL.
+
+Built with Python + build123d. Constrained prompts, no API key.
+
+Code: [REPOSITORY_URL]
