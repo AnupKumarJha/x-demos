@@ -1,0 +1,12 @@
+{
+  "currency": "USD",
+  "pricing": "synthetic sample prices",
+  "parts": {
+    "BASE-01": {"name": "Mounting base", "pack_size": 1, "pack_price_cents": 600, "geometry": "base", "color": "#829ba6"},
+    "SERVO-01": {"name": "Servo envelope", "pack_size": 1, "pack_price_cents": 1200, "geometry": "servo", "color": "#ffa969"},
+    "FINGER-01": {"name": "Gripper finger", "pack_size": 1, "pack_price_cents": 450, "geometry": "finger", "color": "#b6eb80"},
+    "LINK-01": {"name": "Linkage bar", "pack_size": 1, "pack_price_cents": 120, "geometry": "link", "color": "#85bce1"},
+    "BOLT-M3": {"name": "M3 bolt (20-pack)", "pack_size": 20, "pack_price_cents": 200, "geometry": "bolt", "color": "#dce5e8"},
+    "NUT-M3": {"name": "M3 nut (20-pack)", "pack_size": 20, "pack_price_cents": 120, "geometry": "nut", "color": "#d4b884"}
+  }
+}

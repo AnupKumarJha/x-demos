@@ -1,0 +1,439 @@
+{
+  "name": "Concept robot gripper",
+  "units": "mm",
+  "children": [
+    {
+      "name": "Mount",
+      "children": [
+        {
+          "id": "base",
+          "sku": "BASE-01",
+          "position": [
+            0,
+            0,
+            0
+          ],
+          "explode": [
+            0,
+            0,
+            -20
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "servo",
+          "sku": "SERVO-01",
+          "position": [
+            0,
+            0,
+            17
+          ],
+          "explode": [
+            0,
+            0,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jaws",
+      "children": [
+        {
+          "id": "finger--1",
+          "sku": "FINGER-01",
+          "position": [
+            -26,
+            0,
+            43
+          ],
+          "explode": [
+            -30,
+            0,
+            30
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "link--1",
+          "sku": "LINK-01",
+          "position": [
+            -13,
+            0,
+            35
+          ],
+          "explode": [
+            -12,
+            0,
+            15
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "finger-1",
+          "sku": "FINGER-01",
+          "position": [
+            26,
+            0,
+            43
+          ],
+          "explode": [
+            30,
+            0,
+            30
+          ],
+          "rotation": [
+            0,
+            0,
+            180
+          ]
+        },
+        {
+          "id": "link-1",
+          "sku": "LINK-01",
+          "position": [
+            13,
+            0,
+            35
+          ],
+          "explode": [
+            12,
+            0,
+            15
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fasteners",
+      "children": [
+        {
+          "id": "bolt-0",
+          "sku": "BOLT-M3",
+          "position": [
+            -25,
+            -14,
+            4
+          ],
+          "explode": [
+            -15.0,
+            -11.200000000000001,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-0",
+          "sku": "NUT-M3",
+          "position": [
+            -25,
+            -14,
+            -8
+          ],
+          "explode": [
+            -15.0,
+            -11.200000000000001,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-1",
+          "sku": "BOLT-M3",
+          "position": [
+            -25,
+            14,
+            4
+          ],
+          "explode": [
+            -15.0,
+            11.200000000000001,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-1",
+          "sku": "NUT-M3",
+          "position": [
+            -25,
+            14,
+            -8
+          ],
+          "explode": [
+            -15.0,
+            11.200000000000001,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-2",
+          "sku": "BOLT-M3",
+          "position": [
+            25,
+            -14,
+            4
+          ],
+          "explode": [
+            15.0,
+            -11.200000000000001,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-2",
+          "sku": "NUT-M3",
+          "position": [
+            25,
+            -14,
+            -8
+          ],
+          "explode": [
+            15.0,
+            -11.200000000000001,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-3",
+          "sku": "BOLT-M3",
+          "position": [
+            25,
+            14,
+            4
+          ],
+          "explode": [
+            15.0,
+            11.200000000000001,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-3",
+          "sku": "NUT-M3",
+          "position": [
+            25,
+            14,
+            -8
+          ],
+          "explode": [
+            15.0,
+            11.200000000000001,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-4",
+          "sku": "BOLT-M3",
+          "position": [
+            -25,
+            0,
+            38
+          ],
+          "explode": [
+            -15.0,
+            0.0,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-4",
+          "sku": "NUT-M3",
+          "position": [
+            -25,
+            0,
+            26
+          ],
+          "explode": [
+            -15.0,
+            0.0,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-5",
+          "sku": "BOLT-M3",
+          "position": [
+            -5,
+            0,
+            38
+          ],
+          "explode": [
+            -3.0,
+            0.0,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-5",
+          "sku": "NUT-M3",
+          "position": [
+            -5,
+            0,
+            26
+          ],
+          "explode": [
+            -3.0,
+            0.0,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-6",
+          "sku": "BOLT-M3",
+          "position": [
+            5,
+            0,
+            38
+          ],
+          "explode": [
+            3.0,
+            0.0,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-6",
+          "sku": "NUT-M3",
+          "position": [
+            5,
+            0,
+            26
+          ],
+          "explode": [
+            3.0,
+            0.0,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "bolt-7",
+          "sku": "BOLT-M3",
+          "position": [
+            25,
+            0,
+            38
+          ],
+          "explode": [
+            15.0,
+            0.0,
+            55
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "id": "nut-7",
+          "sku": "NUT-M3",
+          "position": [
+            25,
+            0,
+            26
+          ],
+          "explode": [
+            15.0,
+            0.0,
+            -45
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

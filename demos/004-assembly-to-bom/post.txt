@@ -1,0 +1,9 @@
+Your CAD model looks finished.
+Your shopping cart disagrees.
+
+Pulled this concept gripper apart: 22 pieces, 6 unique items.
+
+Then changed the build to 10. The parts list caught up—even the bolts sold in packs of 20.
+
+Demo 004. Sample prices.
+Code: https://github.com/AnupKumarJha/x-demos/tree/main/demos/004-assembly-to-bom
