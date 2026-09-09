@@ -1,0 +1,8 @@
+Demo 002: Sketch → 3D.
+
+Closed outline image → real CAD extrusion.
+Edit depth: 8 → 24 mm. Export STEP + STL + editable JSON.
+
+Synthetic sketch demo. Simple outlines only. Python + build123d; no API key.
+
+Code: https://github.com/AnupKumarJha/x-demos/tree/main/demos/002-sketch-to-3d

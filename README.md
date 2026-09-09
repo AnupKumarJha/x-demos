@@ -9,6 +9,17 @@ One working demo at a time: build it, test it, capture a short walkthrough, and 
 | Demo | What it does | State |
 | --- | --- | --- |
 | [001 — Text-to-Bracket](demos/001-text-to-bracket) | A constrained text prompt becomes an actual CAD solid, STEP and STL | Built and tested; video included |
+| [002 — Sketch-to-3D](demos/002-sketch-to-3d) | A closed outline image becomes a CAD extrusion with editable depth and profile | Built and tested; video included |
+
+## Run demo 002
+
+After installing the dependencies below:
+
+```sh
+python demos/002-sketch-to-3d/studio.py
+```
+
+Open a sketch image, set width and depth, and export STEP/STL plus an editable JSON profile. Includes a synthetic sample sketch; supports simple closed outlines and planar extrusions. See the [demo README](demos/002-sketch-to-3d) for input constraints and CLI usage.
 
 ## Run demo 001
 
